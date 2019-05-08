@@ -1,0 +1,12 @@
+X:\Visual Studio\Stoppuhr\bin\Debug\Stoppuhr.exe.config
+X:\Visual Studio\Stoppuhr\bin\Debug\Stoppuhr.exe
+X:\Visual Studio\Stoppuhr\bin\Debug\Stoppuhr.pdb
+X:\Visual Studio\Stoppuhr\bin\Debug\Stoppuhr.xml
+X:\Visual Studio\Stoppuhr\obj\Debug\Stoppuhr.vbprojAssemblyReference.cache
+X:\Visual Studio\Stoppuhr\obj\Debug\Stoppuhr.Stoppuhr.resources
+X:\Visual Studio\Stoppuhr\obj\Debug\Stoppuhr.Resources.resources
+X:\Visual Studio\Stoppuhr\obj\Debug\Stoppuhr.vbproj.GenerateResource.cache
+X:\Visual Studio\Stoppuhr\obj\Debug\Stoppuhr.vbproj.CoreCompileInputs.cache
+X:\Visual Studio\Stoppuhr\obj\Debug\Stoppuhr.exe
+X:\Visual Studio\Stoppuhr\obj\Debug\Stoppuhr.xml
+X:\Visual Studio\Stoppuhr\obj\Debug\Stoppuhr.pdb
